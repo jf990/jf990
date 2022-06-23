@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### 👀 Follow Me
 
 [![Dev.to](https://img.shields.io/badge/-Dev.to-blue?style=flat-square&logo=Devdotto&logoColor=white&link=https://dev.to/jf990)](https://dev.to/jf990)
-[![Esri Community](https://img.shields.io/badge/esri-community-brightgreen?style=flat-square)]([https://developers.arcgis.com](https://community.esri.com/t5/user/viewprofilepage/user-id/350691))
+[![Esri Community](https://img.shields.io/badge/esri-community-brightgreen?style=flat-square)](https://community.esri.com/t5/user/viewprofilepage/user-id/350691)
 [![Twitter Badge](https://img.shields.io/twitter/follow/geoplay9?style=social)](https://twitter.com/geoplay9)
 [![Linkedin Badge](https://img.shields.io/badge/-johnfoster3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnfoster3/)](https://www.linkedin.com/in/johnfoster3/)
 [![GitHub](https://img.shields.io/github/followers/jf990?style=social)](https://img.shields.io/github/followers/jf990?style=social)
