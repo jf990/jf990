@@ -4,10 +4,6 @@ Tech advocate and software developer who keeps trying to figure it out. It began
 Full stack development. Most interested in ways to make development easier and more reliable. Focus on the real problem.
 
 <!--
-**jf990/jf990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -37,3 +33,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/twitter/follow/geoplay9?style=social)](https://twitter.com/geoplay9)
 [![Linkedin Badge](https://img.shields.io/badge/-JohnFoster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnfoster3/)](https://www.linkedin.com/in/johnfoster3/)
 [![GitHub](https://img.shields.io/github/followers/jf990?style=social)](https://img.shields.io/github/followers/jf990?style=social)
+
+---
+
+[🦖](https://www.google.com/maps/@40.8729851,-73.9918799,89m/data=!3m1!1e3)
